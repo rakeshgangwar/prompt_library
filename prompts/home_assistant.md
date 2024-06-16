@@ -46,3 +46,4 @@ Put this spec function in with your functions:
 
 
 [comment]: # (I have other spec functions that I've revised to consolidate function calls and minimise token consumption. For example, the request will specify multiple entity_ids to get a state or attributes.)
+[comment]: # (https://www.reddit.com/r/homeassistant/comments/1dgzuh7/extended_openai_image_query_is_next_level/)
